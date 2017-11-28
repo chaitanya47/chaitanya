@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>BIODATA</h1>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Contact</th>
+    <th>father name</th>
+    <th>Mother name</th>
+    <th>Age</th>
+    <th>Degree</th>
+    <th>Branch</th>
+    <th>Cgpa</th>
+  </tr>
+  <tr>
+     <th>Chaitanya</th>
+    <th>9652671506</th>
+    <th>Murali</th>
+    <th>Saroja</th>
+    <th>19</th>
+    <th>B.TECH</th>
+    <th>Computer Science</th>
+    <th>8.4</th>
+  </tr>
+  
+</table>
+
+</body>
+</html>
